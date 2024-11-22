@@ -2,14 +2,14 @@
 
 ## Setup Instructions
 
-### Step 1: Clone the Repository
-```bash
+## Step 1: Clone the Repository
+
 git clone <repository-url>
 cd ecommerce_project
 
-### Setup
+## Setup
 python -m venv env
-env\Scripts\activate     # Windows
+env\Scripts\activate   
 pip install -r requirements.txt
 
 
